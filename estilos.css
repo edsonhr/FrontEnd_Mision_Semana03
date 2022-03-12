@@ -1,6 +1,7 @@
+
 body{
     background-color: #fff;
-    font-family: 'Tangerine', serif;
+    font-family: "Audiowide", sans-serif;
     font-size: 18px;
 }
 
@@ -41,5 +42,24 @@ body{
     list-style-type: none;
     padding: 0 5px;
 }
+
+t1{
+    color: #15406B;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+txtnormal{
+    color: #708092;
+    font-size: 20px;
+}
+
+txtazul10{
+    color: #15406B;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 30px;
+}
+
   
     
