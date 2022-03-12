@@ -1,5 +1,7 @@
 body{
     background-color: #fff;
+    font-family: 'Tangerine', serif;
+    font-size: 18px;
 }
 
 #header {
@@ -38,47 +40,6 @@ body{
     float: left;
     list-style-type: none;
     padding: 0 5px;
-}
-
-
-  
-.coolBeans
-{
-    font-family roboto
-  font-size 4rem
-  font-weight bold
-  overflow hidden
-  padding 1rem 2rem
-  position relative
-  text-decoration none
-  transition .2s transform ease-in-out
-  will-change transform
-  z-index 0
-  color #A3ADBC
-  
-  &::after
-    background-color #3B54CE
-    border-radius 1rem
-    content: ''
-    display block
-    height 100%
-    width 100%
-    position absolute
-    left 0
-    top 0
-    transform translate(-100%, 0) rotate(10deg)
-    transform-origin top left
-    will-change transform
-    z-index -1
-    
-  &:hover::after
-    transform translate(0, 0)
-    
-  &:hover
-    border 2px solid transparent
-    color white
-    transform scale(1.05)
-    will-change transform
 }
   
     
