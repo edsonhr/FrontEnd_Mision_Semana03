@@ -45,13 +45,13 @@ body{
 
 t1{
     color: #15406B;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: bold;
 
 }
 txtnormal{
     color: #708092;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 txtazul10{
@@ -59,6 +59,13 @@ txtazul10{
     font-size: 12px;
     font-weight: bold;
     padding: 30px;
+}
+
+t2{
+    color: #15406B;
+    font-size: 40px;
+    font-weight: bold;
+
 }
 
   
