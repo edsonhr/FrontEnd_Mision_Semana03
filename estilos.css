@@ -68,5 +68,12 @@ t2{
 
 }
 
+table{
+    border: 2px;
+    border-color: black;
+    align-content: center;
+    width: "100%";
+}
+
   
     
